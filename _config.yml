@@ -14,7 +14,7 @@ description: "The end of loneliness is freedom."
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/82962097?s=400&u=3a4776ea80d119041dae297e81c9a775db71f790&v=4
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/HypocriticalFish/HypocriticalFish.github.io/tree/master/images/favicon.ico
+favicon: https://github.com/HypocriticalFish/HypocriticalFish.github.io/raw/master/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
