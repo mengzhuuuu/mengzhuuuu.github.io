@@ -36,7 +36,7 @@ excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  weibo: https://weibo.com/hypocriticalfish
+  weibo: hypocriticalfish
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: hypocriticalfish
