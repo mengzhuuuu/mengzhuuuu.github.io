@@ -7,8 +7,12 @@ permalink: /about/
 ## 关于我
 你好，我是Hypocritical Fish。
 
-典型ENFP人格，不说话会死星人。
+典型ENFP人格，不说话会死星人，这是我的微信：
 
+![微信二维码](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/My%20Blog/profile.jpg)
+
+这是我的女神小虞：
+![小虞](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/My%20Blog/xiaoyu.jpg)
 
 
 ## 版权声明
