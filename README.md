@@ -16,7 +16,9 @@ author: Hypocritical Fish
 
 <!-- more -->
 
-“此后输入博客的剩余内容”
+## 思路
+
+## 代码
 ```
 
 
