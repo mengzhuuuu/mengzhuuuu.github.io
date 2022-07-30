@@ -3,7 +3,7 @@
 ````txt
 ---
 layout: post
-title: "力扣59. 题目名称"
+title: "力扣59.题目名称"
 date:   2022-07-30
 tags: [leetcode]
 comments: true
