@@ -25,6 +25,9 @@ author: Hypocritical Fish
 ## 代码
 
 ```java
+/**
+ * 注释
+ */
 
 ```
 ````
