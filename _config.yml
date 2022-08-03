@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Hypocritical Fish's blog"
+name: "萌主"
 # Short bio or description (displayed in the header)
 description: "The end of loneliness is freedom."
 
@@ -12,7 +12,7 @@ description: "The end of loneliness is freedom."
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/82962097?s=400&u=3a4776ea80d119041dae297e81c9a775db71f790&v=4
+avatar: https://avatars.githubusercontent.com/u/110521674?v=4
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/HypocriticalFish/HypocriticalFish.github.io/raw/master/images/favicon.ico
 
@@ -30,20 +30,20 @@ navigation:
     url: /tags
 
 # Pagination
-paginate: 8
+paginate: 9
 
 excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  weibo: hypocriticalfish
+  weibo: mengzhuuuu
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: hypocriticalfish
-  email: 3144173006@qq.com
+  zhihu: 
+  email: 2546857101@qq.com
   facebook:
   flickr:
-  github: HypocriticalFish 
+  github: mengzhuuuu 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -51,11 +51,11 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: GenuineFishhhhh
+  twitter: 
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2022 Hypocritical Fish
+footer-text: Copyright (c) 2022 萌主
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -63,17 +63,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: f21ffcc0fb6bf3d7b50d
-  clientSecret: a684a1132f8e28faee0d51492a038c5c338debf2
-  repo: hypocriticalfish.github.io
-  owner: HypocriticalFish
+  clientID: 10090d5c4700ea222025
+  clientSecret: 6fe56c47c0c144c63e088c6cf955fea5cf74f597
+  repo: mengzhuuuu.github.io
+  owner: mengzhuuuu
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-235853897-2
+# google_analytics: UA-235853897-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://hypocriticalfish.github.io
+url: https://mengzhuuuu.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
