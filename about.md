@@ -5,16 +5,17 @@ permalink: /about/
 ---
 
 ## 关于我
-你好，我是Hypocritical Fish。
+你好，我是萌主。
 
-典型ENFP人格，不说话会死星人，这是我的微信：
+典型INFJ人格，说话会死星人，这是我的微信：
 
-![微信二维码](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/myblog/profile.jpg)
+![微信二维码](![](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/yjblog/61C5D8C6783A9BB7C94FC73460C3B1CA.png)
 
-这是我的女神小虞：
+这是我的女神：
 
-![小虞](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/myblog/xiaoyu.jpg)
+![](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/yjblog/wallhaven-lmxoll_1920x1080.png)
 
+![](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/yjblog/wallhaven-yjgl6g_2560x1440.png)
 
 ## 版权声明
 
