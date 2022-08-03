@@ -9,7 +9,7 @@ permalink: /about/
 
 典型INFJ人格，说话会死星人，这是我的微信：
 
-![微信二维码](![](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/yjblog/61C5D8C6783A9BB7C94FC73460C3B1CA.png)
+![](https://hypofish-crowdfunding.oss-cn-shanghai.aliyuncs.com/yjblog/61C5D8C6783A9BB7C94FC73460C3B1CA.png)
 
 这是我的女神：
 
