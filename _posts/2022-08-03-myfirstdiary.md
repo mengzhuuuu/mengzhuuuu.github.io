@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于机盲萌主居然拥有了自己的博客"
+title: "关于机盲萌主拥有了自己的博客"
 date:   2022-08-03
 tags: [耳饰消费]
 comments: true
@@ -8,7 +8,7 @@ toc: false
 author: 萌主
 ---
 
-# 关于机盲萌主居然拥有了自己的博客
+机盲萌主拥有了自己的博客
 
 <!-- more -->
 
